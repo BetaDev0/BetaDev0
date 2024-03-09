@@ -10,7 +10,7 @@ We are BetaDev, a trio of skilled software engineers with diverse expertise. Mee
 Explore our projects, check out the code, and feel free to contribute. We believe in the power of collaboration and welcome developers from all backgrounds to be part of our community.
 
 📧 Contact Us
-Have questions, suggestions, or just want to say hi? Reach out to us at [Your Email Address].
+Have questions, suggestions, or just want to say hi?
 
 🌟 How to Contribute
 We value your contributions! If you'd like to contribute to our projects, follow these steps:
