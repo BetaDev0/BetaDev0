@@ -2,9 +2,9 @@ Welcome to the BetaDev GitHub organization! We are a team of passionate software
 
 🚀 About Us
 We are BetaDev, a trio of skilled software engineers with diverse expertise. Meet the minds behind the code:
-- <a href="Link to GitHub Profile 1" style="text-decoration:none;">Ayoub Aarrasse</a>
-- <a href="Link to GitHub Profile 1" style="text-decoration:none;">Lahoucine EL Addali</a>
-- <a href="Link to GitHub Profile 1" style="text-decoration:none;">Youssef Zahi</a>
+- <a href="https://github.com/aarrasseayoub01" style="text-decoration:none;">Ayoub Aarrasse</a>
+- <a href="https://github.com/houcine7" style="text-decoration:none;">Lahoucine EL Addali</a>
+- <a href="https://github.com/youzh00" style="text-decoration:none;">Youssef Zahi</a>
 
 🌐 Explore Our Repositories
 Explore our projects, check out the code, and feel free to contribute. We believe in the power of collaboration and welcome developers from all backgrounds to be part of our community.
